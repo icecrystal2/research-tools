@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.editaplot-venv/
+.editaplot-local.json
+.editaplot-install-state.json
+.editaplot-environment.lock
+.test-output/
+
+/work/

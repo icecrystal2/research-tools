@@ -1,0 +1,6 @@
+interface:
+  display_name: "SciPlot 科研绘图与布局质检"
+  short_description: "统一 Python/SciencePlots 与 Origin 绘图，并复核成图布局"
+  default_prompt: "请使用 $sciplot 根据我的数据绘制科研图，按要求选择 Python 或 Origin 路线，并检查布局后交付可复现结果。"
+policy:
+  allow_implicit_invocation: true

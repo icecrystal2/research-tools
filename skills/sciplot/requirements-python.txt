@@ -1,0 +1,6 @@
+# Python 3.10+; use a project environment. Origin uses its own locked environment.
+matplotlib>=3.8,<4
+SciencePlots==2.2.2
+numpy>=1.24,<3
+Pillow>=10,<13
+pypdf>=4,<7
